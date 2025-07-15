@@ -1,6 +1,0 @@
-bronze/_init_.py
-silver/_init_.py
-gold/_init_.py
-scripts/ingestao.py
-scripts/transformacao.py
-notebooks/analise_inicial.ipynb (arquivo vazio só para criar a pasta)
